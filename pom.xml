@@ -7,14 +7,14 @@
         <version>[0.3.0,1)</version>
     </parent>
 
-    <artifactId>ets-assembly-descriptor-aggregator</artifactId>
+    <artifactId>ets-assembly-descriptors-aggregator</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <url>https://github.com/Galeria-Kaufhof/ets-assembly-descriptor</url>
+    <url>https://github.com/Galeria-Kaufhof/ets-assembly-descriptors</url>
 
     <modules>
-        <module>ets-assembly-descriptor-service</module>
+        <module>ets-assembly-descriptors-application</module>
     </modules>
 
     <licenses>
@@ -34,9 +34,9 @@
     </developers>
 
     <scm>
-        <url>https://github.com/Galeria-Kaufhof/ets-assembly-descriptor</url>
-        <connection>scm:git:git@github.com:Galeria-Kaufhof/ets-assembly-descriptor.git</connection>
-        <developerConnection>scm:git:git@github.com:Galeria-Kaufhof/ets-assembly-descriptor.git</developerConnection>
+        <url>https://github.com/Galeria-Kaufhof/ets-assembly-descriptors</url>
+        <connection>scm:git:git@github.com:Galeria-Kaufhof/ets-assembly-descriptors.git</connection>
+        <developerConnection>scm:git:git@github.com:Galeria-Kaufhof/ets-assembly-descriptors.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
